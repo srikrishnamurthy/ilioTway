@@ -6,24 +6,24 @@ This program takes in a ten-digit phone number in the US and a Twitter handle bo
 
 #Usage
 
-###	Since our program utilizes the Twilio Platform, you will need to make an account. 
-####	Head to: https://www.twilio.com/try-twilio
-####	Enter information as prompted. **It is important to select “Java” as the language** Click “Get Started”.
+##### 1. Since our program utilizes the Twilio Platform, you will need to make an account. 
+###### a. Head to: https://www.twilio.com/try-twilio
+###### b. Enter information as prompted. **It is important to select “Java” as the language** Click “Get Started”.
 
 ![pic1](/imgs/Picture1.png)
 
-####	Twilio will ask for a phone number. Enter the number and you will receive a verification code or a phone call (whichever you click on).
+###### c. Twilio will ask for a phone number. Enter the number and you will receive a verification code or a phone call (whichever you click on).
 
 ![pic3](/imgs/Picture3.png)
 
-####    A page asking for the verification code (sent to your phone number by call or text) will pop up. Enter the verification code (My code was 6 digits long).
+###### d. A page asking for the verification code (sent to your phone number by call or text) will pop up. Enter the verification code (My code was 6 digits long).
 
-### Now that the account has been created, some additional steps must be taken in order for the program to work.
-#### Go to: https://www.twilio.com/user/account/phone-numbers/getting-started You should now be on the page below. Click “Get your first Twilio phone number”
+##### 2. Now that the account has been created, some additional steps must be taken in order for the program to work.
+###### a. Go to: https://www.twilio.com/user/account/phone-numbers/getting-started You should now be on the page below. Click “Get your first Twilio phone number”
 
 ![pic2](/imgs/Picture2.png)
 
-#### A dialogue box will pop up. Click “Choose this number”. After waiting a few seconds, click “Done”.
-###	Now you need to set a class path.
-###	When prompted, input a ten-digit phone number. You will be prompted again for the Twitter handle. Input the full Twitter handle (including the “@” sign). (you should also add your API tokens)
-###	A Pig Latinized message will arrive at the number entered.
+###### b. A dialogue box will pop up. Click “Choose this number”. After waiting a few seconds, click “Done”.
+##### 3. Now you need to set a class path.
+##### 4. When prompted, input a ten-digit phone number. You will be prompted again for the Twitter handle. Input the full Twitter handle (including the “@” sign). (you should also add your API tokens)
+##### 5. A Pig Latinized message will arrive at the number entered.
